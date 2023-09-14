@@ -1,6 +1,7 @@
 # Curriculo
 
-![image](https://github.com/Laloonn/curriculo/assets/86390243/83cdf065-8159-43d5-8aec-a6c4aba3f660)
+![image](https://github.com/Laloonn/curriculo/assets/86390243/53c27b55-221e-4b3a-a781-98dcfc54fd3a)
+
 
 
 >João Pedro Beltran
