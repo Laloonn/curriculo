@@ -13,7 +13,7 @@
 
 Porifólio simples
 
-[Clique aqui para acessar](https://laloonn.github.io/curriculo/)
+[Clique aqui para acessar](https://jp-beltran.github.io/curriculo/))
 
 ## Tecnologias
 - HTML
