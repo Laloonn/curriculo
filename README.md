@@ -7,7 +7,7 @@
 >João Pedro Beltran
 - ADS - CEUB
 - Conhecimentoss em HTML e CSS e JScript
-- 3o Semestre
+- 4o Semestre
 - 19 anos
 - Brasília - DF
 
